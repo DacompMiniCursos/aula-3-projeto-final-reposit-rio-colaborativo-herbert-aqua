@@ -6,3 +6,8 @@
 
 Trabalho em conjunto da atividade 3.0 do mini curso de git e github proporcionado pelo DACOMP (Diretório Acadêmico de Ciência da
 Computação e Inteligência da Computação).
+
+## Autores
+
+- Herbert dos Reis
+- Aqua Soares Lima
